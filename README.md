@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.gif" alt="defconradio banner" width="100%" />
+</p>
+
 ### PGP Public Key
 - **Key ID:** `D3D1F237E77EB1A8`
 - **Fingerprint:** `6DFA 97EE 93C5 9830 FADA 19B6 D3D1 F237 E77E B1A8`
