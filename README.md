@@ -1,4 +1,66 @@
 ### PGP Public Key
 - **Key ID:** `D3D1F237E77EB1A8`
-- **Public Key:** [github.com/defconradio.gpg](github.com/defconradio.gpg)
+- **Fingerprint:** `6DFA 97EE 93C5 9830 FADA 19B6 D3D1 F237 E77E B1A8`
+- **Download Key:** [defconradio.asc](defconradio.asc)
+- **GitHub Profile Key:** [github.com/defconradio.gpg](https://github.com/defconradio.gpg)
 - **Fetch via GPG:** `gpg --keyserver hkps://keys.openpgp.org --recv-keys D3D1F237E77EB1A8`
+
+<details>
+<summary><b>Click to show PGP Public Key block</b></summary>
+
+```text
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+1Dd8fYNj42c=
+=6MtE
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+</details>
