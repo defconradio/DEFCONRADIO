@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.gif" alt="defconradio banner" width="100%" />
+  <img src="./banner.jpg" alt="defconradio banner" width="100%" />
 </p>
 
 ### PGP Public Key
